@@ -1,2 +1,2 @@
 # Military Dataset
-Top countries by spending, includes clusters.
+Top countries by military spending, includes clusters.
